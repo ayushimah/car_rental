@@ -1,0 +1,36 @@
+.custom-navbar{
+	box-shadow: 10px 10px 10px #eee;
+	z-index:;
+	/* background-color: #000; */
+	font-size: 32px;
+	line-height: 35px;
+}
+.nav-link{
+	color: #fff!important;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 40px;
+	letter-spacing: .3px;
+	padding-right: 20px !important;
+	padding-left: 20px !important;
+
+}
+
+.custom-toggler.navbar-toggler {
+	border-color: #f9c200;
+}
+
+
+.custom-toggler .navbar-toggler-icon{
+	width: 18px!important;
+}
+.custom-toggler:hover{
+	border-color: rgb(255,255,255); background-color: #f9c200;
+}
+
+.collapse .navbar-nav li a:hover{
+     color: #999 !important;
+}
+.space{
+	padding-top: 140px;
+}
