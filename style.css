@@ -828,74 +828,8 @@ a:hover, a:active, a:focus {
 .formbtn .btn:hover {
 	background: rgba(0,0,0,0.5);
 }
-/*---------------------------------------
-   Cars List section
------------------------------------------*/
-.vehiclesList ul li h3 {
-	font-size: 30px;
-	font-weight: 700;
-	text-transform: uppercase;
-	color: #DC3D24;
-	margin: 30px 0 0 0;
-}
-.vehiclesList ul li .subtitle {
-	color: #888;
-	text-transform: uppercase;
-	font-size: 14px;
-	margin-bottom: 20px;
-	position: relative;
-	padding-bottom: 20px;
-}
-.vehiclesList ul li .subtitle:after {
-	position: absolute;
-	width: 40px;
-	height: 5px;
-	background: #DC3D24;
-	content: '';
-	left: 0;
-	bottom: 0;
-}
-.vehiclesList ul li .btn {
-	display: block;
-	background: #333;
-	margin-top: 20px;
-	color: #fff;
-	text-transform: uppercase;
-	border-radius: 0;
-	padding: 15px 30px;
-	font-size: 18px;
-}
-.vehiclesList ul li .btn:hover {
-	background: #DC3D24;
-}
-.carPrice strong {
-	font-size: 48px;
-	line-height: 48px;
-}
-.carPrice span {
-	font-size: 14px;
-	vertical-align: top;
-	color: #999;
-	display: inline-block;
-	margin-top: 5px;
-}
-.carinfo {
-	background: #DC3D24;
-	padding: 20px;
-	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
-}
-.carinfo ul li {
-	font-size: 14px;
-	color: #fff;
-	border-bottom: 1px solid rgba(255,255,255,0.3);
-	padding: 10px 0
-}
-.carinfo ul li:last-child {
-	border-bottom: 0;
-}
-.carinfo ul li strong {
-	float: right;
-}
+
+
 /*---------------------------------------
    Counter section
 -----------------------------------------*/
